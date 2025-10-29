@@ -1,4 +1,4 @@
-~~# Movie API
+# Movie API
 
 - Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
 
@@ -22,4 +22,4 @@ Use the following command to load prepared data from fixture to test and debug y
   `python manage.py loaddata cinema_service_db_data.json`
 
 
-### Note: Check your code using this [checklist](checklist.md) before pushing your solution.~~
+## Note: Check your code using this [checklist](checklist.md) before pushing your solution.
